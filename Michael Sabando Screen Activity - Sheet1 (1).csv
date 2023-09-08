@@ -1,4 +1,4 @@
-Date,Day_of_the_week,App (Use all CAPITALS),Minutes,Category
+Date,Day_of_the_week,APP,Minutes,Category
 08/27/2023,Sunday,TIKTOK,160,Entertainment
 08/27/2023,Sunday,SAFARI,55,Other
 08/27/2023,Sunday,INSTAGRAM,47,Social Media
@@ -19,8 +19,8 @@ Date,Day_of_the_week,App (Use all CAPITALS),Minutes,Category
 08/25/2023,Friday,YOUTUBE,99,Entertainment
 08/25/2023,Friday,BURRITO BISON,90,Entertainment
 08/25/2023,Friday,SAFARI,54,Other
-08/26/2023,Saturday,TIKTOK,200,Education
-08/26/2023,Saturday,YOUTUBE,180,Education
+08/26/2023,Saturday,TIKTOK,200,Entertainment
+08/26/2023,Saturday,YOUTUBE,180,Entertainment
 08/26/2023,Saturday,INSTAGRAM,100,Social Media
 08/27/2023,Sunday,BURRITO BISON,29,Entertainment
 08/27,Sunday,YOUTUBE,28,Entertainment
@@ -52,11 +52,11 @@ Date,Day_of_the_week,App (Use all CAPITALS),Minutes,Category
 08/26/2023,Saturday,CAMERA,7,Other
 08/26/2023,Saturday,PHOTOS,4,Other
 08/26/2023,Saturday,MESSAGES,3,Other
-08/25/2023,Friday,TIKTOK,216,Entertainment
-08/25/2023,Friday,YOUTUBE,99,Other
-08/25/2023,Friday,BURRITO BISON,90,Entertainment
-08/25/2023,Friday,SAFARI,54,Other
-08/25/2023,Friday,INSTAGRAM,40,Social Media
-08/25/2023,Friday,MESSAGES,6,Other
-08/25/2023,Friday,SPOTIFY,2,Entertainment
-08/25/2023,Friday,BEREAL,2,Social Media
+08/25/2023,Friday,WEBTOON,2,Entertainment
+09/01/2023,Friday,YOUTUBE,200,Entertainment
+09/01/2023,Friday,TIKTOK,109,Entertainment
+09/01/2023,Friday,SAFARI,40,Other
+09/01/2023,Friday,INSTAGRAM,62,Social Media
+09/01/2023,Friday,MESSAGES,41,Other
+09/01/2023,Friday,SHADOW FIGHT 2,7,Entertainment
+09/01/2023,Friday,BEREAL,2,Social Media
